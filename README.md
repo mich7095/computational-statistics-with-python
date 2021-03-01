@@ -45,7 +45,7 @@ The content of this document is based on the course of the same name taught by [
 ## Introduction to dynamic programming
 
 <div align="center"> 
-  <img src="images/bellman.jpg" width="200">
+  <img src="images/Bellman.jpg" width="200">
   <p>Richard Bellman</p>
 </div>
 
