@@ -33,6 +33,7 @@ The content of this document is based on the course of the same name taught by [
 - [Experimental Data](#Experimental-Data)
     - [How to work with experimental data?](#How-to-work-with-experimental-data?)
     - [Linear regression](#Linear-regression)
+- [Certificate](#Certificate)
 
 # Objectives
 - Learn when to use dynamic programming and its benefits.
@@ -308,3 +309,9 @@ The **experimental data** are those that are generated through the **scientific 
 **Linear regression** allows us to approximate a function to a set of data obtained experimentally. It does not necessarily allow to approximate linear functions, but its variants allow to approximate any **polynomial function.**
 
 To see an example of linear regressions in _Python_ in the following link you can access to see an example: [Collab - Regresión Lineal.](https://colab.research.google.com/drive/1vX4JFHd0gpAYdBNllH93O7QpYKywD4sb)
+
+# Certificate
+
+<div align="center"> 
+  <img src="images/diploma.jpg" width="90%">
+</div>
